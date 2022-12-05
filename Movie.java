@@ -31,6 +31,7 @@ public class Movie {
            throw new IllegalArgumentException("Incorrect Price Code");
      }
   }
+
   public String getTitle (){
       return _title;
   }
